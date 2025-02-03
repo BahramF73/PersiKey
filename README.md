@@ -2,7 +2,7 @@
 
 # PersiKey – Convert TR-QWERTY to Persian and vice versa
 
-**Inspired by the "[Fingil]([https://github.com/username/repository](https://github.com/alireza-amirsamimi/fingil))" project.**
+**Inspired by the ["Fingil"](https://github.com/alireza-amirsamimi/fingil) project.**
 
 PersiKey is a simple and efficient tool that automatically converts text between **Turkish QWERTY (Latin)** and **Persian**. It detects the input language and transforms the text accordingly.  
 
