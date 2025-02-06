@@ -12,3 +12,8 @@ PersiKey is a simple and efficient tool that automatically converts text between
 ✅ Works with `xclip`, `xdotool`, and `autokey` for quick pasting  
 ✅ Tested on **Fedora** with **X11**  
 ✅ Lightweight and easy to use  
+
+
+## 📥 Installation
+
+To install **PersiKey**, please visit the following link for the detailed installation instructions on the [GitHub Wiki](https://github.com/BahramF73/PersiKey/wiki).
